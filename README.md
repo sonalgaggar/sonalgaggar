@@ -1,6 +1,6 @@
 ### Hello, folks! 👋 , I'm Sonal Maheshwari.
-*  ## Programmer
-*  python developer and machine learning Enthusiast
+*  *** Programmer***
+*  python developer and machine learning Enthusiast..
  <br>
 
 
@@ -10,10 +10,11 @@
 Here are some ideas to get you started: -->
 - 🔭 I’m currently working on  competitive coding skills and data Analytics.
 
-- 👯 I’m looking to collaborate on data science projects
+- 👯 I’m looking to collaborate on data science projects.
 
-- 📫Co: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](gaggarsona15@gmail.com)
+
+📫 How to reach me: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](christina@christinakopecky.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/cmvnk)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
