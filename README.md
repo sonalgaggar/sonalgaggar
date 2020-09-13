@@ -12,8 +12,8 @@ Here are some ideas to get you started: -->
 
 - 👯 I’m looking to collaborate on data science projects
 
-- 📫 How to reach me: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](gaggarsona0@gmail.com)
+- 📫Co: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](gaggarsona15@gmail.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/cmvnk)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
