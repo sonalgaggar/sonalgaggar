@@ -1,5 +1,5 @@
 ### Hello, folks! 👋 , I'm Sonal Maheshwari.
-*  *** Programmer***
+*  ***Programmer***
 *  python developer and machine learning Enthusiast..
  <br>
 
