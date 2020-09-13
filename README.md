@@ -8,9 +8,9 @@
 - 💬 Ask me about ...
 
 Here are some ideas to get you started: -->
-- 🔭 I’m currently working on  competitive coding skills and data Analytics.
+🔭 I’m currently working on  competitive coding skills and data Analytics.
 
-- 👯 I’m looking to collaborate on data science projects.
+👯 I’m looking to collaborate on data science projects.
 
 
 <!--📫 How to reach me: <br>
