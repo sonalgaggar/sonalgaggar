@@ -1,14 +1,14 @@
 ### Hello, folks! 👋 , I'm Sonal Maheshwari.
-*  Competitive coder and python developer. <br>
-*  machine learning Enthusiast
+*  ## Programmer
+*  python developer and machine learning Enthusiast
+ <br>
 
 
 <!--**sonalgaggar/sonalgaggar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.- 🌱 I’m currently learning  - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
 Here are some ideas to get you started: -->
-
-  🔭 I’m currently working on data Analytics.
+- 🔭 I’m currently working on  competitive coding skills and data Analytics.
 
 - 👯 I’m looking to collaborate on data science projects
 
