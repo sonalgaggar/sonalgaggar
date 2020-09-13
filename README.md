@@ -13,11 +13,13 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on data science projects.
 
 
-📫 How to reach me: <br>
+<!--📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](christina@christinakopecky.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/cmvnk)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+-->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalgaggar&layout=compact&show_icons=true)](https://github.com/sonalgaggar/github-readme-stats)
