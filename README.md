@@ -1,6 +1,6 @@
 ### Hello, folks! 👋 , I'm Sonal Maheshwari.
 *  ***Programmer***
-*  python developer and machine learning Enthusiast..
+*  Python developer and Machine Learning Enthusiast..
  <br>
 
 
